@@ -19,13 +19,9 @@ version is 4.3.11.
 
   2. Clone the repository:
 
-<<<<<<< HEAD
-        git clone --recursive https://github.com/gregerg/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
-=======
      ```console
-     git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+     git clone --recursive https://github.com/gregerg/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
      ```
->>>>>>> 1f4601e44c989b90dc7314b151891fa60a101251
 
   3. Create a new Zsh configuration by copying the Zsh configuration files
      provided:
